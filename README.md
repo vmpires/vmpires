@@ -1,4 +1,4 @@
-### Olá! 👋
+### Olá, seja bem vindo(a)! 👋
 
 :man_technologist: Meu nome é Victor, estou em transição da área jurídica para a área da tecnologia.
 
