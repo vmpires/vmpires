@@ -1,14 +1,14 @@
-### Olá! / Hi there 👋
+### Olá! 👋
 
-Meu nome é Victor, estou em transição do Direito para a área da tecnologia.
+:man_technologist: Meu nome é Victor, estou em transição da área jurídica para a área da tecnologia.
 
-Meu foco atual está em masterizar minha lógica com programação em Python back end.
+:man_student:	Meu foco atual está em masterizar minha lógica com programação em Python :snake: (back end).
 
-Entretanto, tenho muita vontade e facilidade de aprender, sendo assim, também faço alguns projetos de front end (Noje.js/React).
+:seedling:	Entretanto, tenho muita vontade e facilidade de aprender, sendo assim, também faço alguns projetos de front end (HTML/CSS/JavaScript/Node.js/React).
 
-Estou em busca da minha primeira oportunidade de emprego, seja estágio, seja desenvolvedor júnior. 
+👀 Estou em busca da minha primeira oportunidade de emprego, seja estágio, seja desenvolvedor júnior. 
 
-Fique a vontade para olhar meus repositórios e entrar em contato em caso de interesse profissional.
+:computer: Fique a vontade para olhar meus repositórios e entrar em contato em caso de interesse profissional.
 
 <!--
 **vmpires/vmpires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
