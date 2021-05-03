@@ -4,7 +4,7 @@
 
 :man_student:	Meu foco atual está em masterizar minha lógica com programação em Python :snake: (back end).
 
-:seedling:	Entretanto, tenho muita vontade e facilidade de aprender, sendo assim, também faço alguns projetos de front end (HTML/CSS/JavaScript/Node.js/React).
+:seedling:	Entretanto, tenho muita vontade e facilidade de aprender, sendo assim, também estudando projetos de front end (HTML/CSS/JavaScript/Node.js/React).
 
 👀 Estou em busca da minha primeira oportunidade de emprego, seja estágio, seja desenvolvedor júnior. 
 
