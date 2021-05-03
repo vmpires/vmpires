@@ -10,6 +10,9 @@
 
 :computer: Fique a vontade para olhar meus repositórios e entrar em contato em caso de interesse profissional.
 
+#### E-mail: vctprs@gmail.com
+#### Linkedin: https://www.linkedin.com/in/victormilhomepires
+
 <!--
 **vmpires/vmpires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
