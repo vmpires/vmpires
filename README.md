@@ -12,6 +12,9 @@
 
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vmpires&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmpires&layout=compact)](https://github.com/vmpires/github-readme-stats)
+
+
 #### E-mail: vctprs@gmail.com
 #### Linkedin: https://www.linkedin.com/in/victormilhomepires
 
