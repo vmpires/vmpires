@@ -4,7 +4,9 @@
 
 :man_student:	Meu foco atual está em masterizar minha lógica com programação em Python :snake: (back end).
 
-:seedling:	Entretanto, tenho muita vontade e facilidade de aprender, sendo assim, também estou estudando projetos de front end (HTML/CSS/JavaScript/Node.js/React).
+:briefcase: Como Banco de Dados relacional, estou aprendendo a usar o MySQL :dolphin: e BD não relacional: MongoDB :deciduous_tree:.
+
+:seedling:	Entretanto, tenho muita vontade e facilidade de aprender, sendo assim, também estou estudando projetos de front end (HTML/CSS/JavaScript/React).
 
 👀 Estou em busca da minha primeira oportunidade de emprego, seja estágio, seja desenvolvedor júnior. 
 
