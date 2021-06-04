@@ -1,6 +1,6 @@
 ### Olá, seja bem vindo(a)! 👋
 
-:rocket: Meu nome é Victor, estou em transição da área jurídica para a área da tecnologia.
+:rocket: Meu nome é Victor, estou em transição da área jurídica para a área de Análise e Desenvolvimento de Sistemas
 
 :man_student: Para isso, iniciei os estudos na Faculdade Impacta de Tecnologia.
 
