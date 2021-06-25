@@ -4,11 +4,11 @@
 
 :man_student: Para isso, iniciei os estudos na Faculdade Impacta de Tecnologia.
 
-:man_technologist:	Meu foco atual está em masterizar minha lógica com programação em Python :snake: (back end), bem como C# para uso profissional.
+:man_technologist:	Meu foco atual está em masterizar minha lógica com programação utilizando as linguagens Python :snake: e C#.
 
 :briefcase: Como Banco de Dados relacional, estou aprendendo MySQL :dolphin: e como BD não relacional: MongoDB :deciduous_tree:.
 
-:seedling:	Entretanto, tenho muita vontade e facilidade de aprender, sendo assim, também estou estudando projetos de front end (HTML/CSS/JavaScript/C#/Angular).
+:seedling:	De modo a complementar a stack, também estou estudando front end (HTML/CSS/JavaScript/Angular).
 
 :computer: Fique a vontade para olhar meus repositórios e entrar em contato em caso de interesse profissional.
 
