@@ -8,9 +8,7 @@
 
 :briefcase: Como Banco de Dados relacional, estou aprendendo MySQL :dolphin: e como BD não relacional: MongoDB :deciduous_tree:.
 
-:seedling:	Entretanto, tenho muita vontade e facilidade de aprender, sendo assim, também estou estudando projetos de front end (HTML/CSS/JavaScript/React).
-
-👀 Estou em busca da minha primeira oportunidade de emprego, seja como estagiário, seja como desenvolvedor júnior. 
+:seedling:	Entretanto, tenho muita vontade e facilidade de aprender, sendo assim, também estou estudando projetos de front end (HTML/CSS/JavaScript/C#/Angular).
 
 :computer: Fique a vontade para olhar meus repositórios e entrar em contato em caso de interesse profissional.
 
