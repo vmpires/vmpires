@@ -6,7 +6,7 @@
 
 :man_technologist:	Meu foco atual está em masterizar minha lógica com programação utilizando as linguagens Python :snake: e C#.
 
-:briefcase: Como Banco de Dados relacional, estou aprendendo MySQL :dolphin: e como BD não relacional: MongoDB :deciduous_tree:.
+:briefcase: Como Banco de Dados relacional, estou aprendendo MySQL :dolphin:/SQLServer e como BD não relacional: MongoDB :deciduous_tree:.
 
 :seedling:	De modo a complementar a stack, também estou estudando front end (HTML/CSS/JavaScript/Angular).
 
