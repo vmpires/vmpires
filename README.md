@@ -12,9 +12,6 @@
 
 :computer: Fique a vontade para olhar meus repositórios e entrar em contato em caso de interesse profissional.
 
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vmpires)](https://github.com/vmpires/github-readme-stats)
-)
-
 #### E-mail: vctprs@gmail.com
 #### Linkedin: https://www.linkedin.com/in/victormilhomepires
 
