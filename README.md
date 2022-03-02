@@ -1,16 +1,10 @@
-### Olá, seja bem vindo(a)! 👋
+### Welcome! 👋
 
-:rocket: Meu nome é Victor, estou em transição da área jurídica para a área de Análise e Desenvolvimento de Sistemas.
+:rocket: My name is Victor, and I'm a software engineer acting remotely from Sâo Paulo/SP.
 
-:man_student: Para isso, iniciei os estudos na Faculdade Impacta de Tecnologia.
+:seedling: I'm currently acting as a Junior Software Engineer at Grana Capital.
 
-:man_technologist:	Meu foco atual está em masterizar minha lógica com programação utilizando as linguagens Python :snake: e C#.
-
-:briefcase: Como Banco de Dados relacional, estou aprendendo MySQL :dolphin:/SQLServer e como BD não relacional: MongoDB :deciduous_tree:.
-
-:seedling:	De modo a complementar a stack, também estou estudando front end (HTML/CSS/JavaScript/Angular).
-
-:computer: Fique a vontade para olhar meus repositórios e entrar em contato em caso de interesse profissional.
+:computer: Feel free to check out my repositories and contact me anytime!
 
 #### E-mail: vctprs@gmail.com
 #### Linkedin: https://www.linkedin.com/in/victormilhomepires
