@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-:rocket: My name is Victor, and I'm a software engineer acting remotely from São Paulo/SP.
+:rocket: My name is Victor, and I'm a software engineer from São Paulo/SP.
 
 :seedling: I'm currently acting as a Junior Software Engineer at Grana Capital.
 
