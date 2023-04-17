@@ -2,7 +2,7 @@
 
 :rocket: My name is Victor, and I'm a software engineer from São Paulo/SP.
 
-:seedling: I'm currently acting as a Junior Software Engineer at Grana Capital.
+:seedling: I'm currently acting as a Software Engineer at Grana Capital.
 
 :computer: Feel free to check out my repositories and contact me anytime!
 
