@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-:rocket: My name is Victor, and I'm a software engineer from São Paulo/SP.
+:rocket: My name is Victor, and I'm a software engineer based on greater São Paulo area.
 
 :earth_americas: I'm currently working at Fetchly Labs with Ruby On Rails and NextJS.
 
