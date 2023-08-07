@@ -2,7 +2,7 @@
 
 :rocket: My name is Victor, and I'm a software engineer from São Paulo/SP.
 
-:seedling: I'm currently looking for an opportunity to end my evolution from Junior to Mid-level software engineer.
+:earth_americas: I'm currently acting as software engineer at Fetchly Labs.
 
 :computer: Feel free to check out my repositories and contact me anytime!
 
