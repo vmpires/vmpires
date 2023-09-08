@@ -2,7 +2,7 @@
 
 :rocket: My name is Victor, and I'm a software engineer based on greater São Paulo area.
 
-:earth_americas: I'm currently working at Fetchly Labs with Ruby On Rails and NextJS.
+:earth_americas: I'm currently working at Fetchly Labs developing Ruby On Rails and NextJS web apps.
 
 :computer: Feel free to check out my repositories and contact me anytime!
 
